@@ -1,0 +1,26 @@
+PODS:
+  - Cosmos (23.0.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.9.1):
+    - SDWebImage/Core (= 5.9.1)
+  - SDWebImage/Core (5.9.1)
+
+DEPENDENCIES:
+  - Cosmos
+  - ReachabilitySwift
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - ReachabilitySwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: a990c053fff71e388a10f3357edb0be17929c9c5
+
+PODFILE CHECKSUM: a99b4500f6a6d9459ece6a72393500076e7e29df
+
+COCOAPODS: 1.9.3
